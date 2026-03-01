@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+build
+
+# Coverage
+coverage
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
