@@ -1,5 +1,9 @@
 ﻿# MR Starter Lite
-
+ 
++ ![Stars](https://img.shields.io/github/stars/matheusregis/mr-starter-lite)
++ ![License](https://img.shields.io/github/license/matheusregis/mr-starter-lite)
++ ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
++ 
 > The free, open-source foundation for your micro-SaaS.  
 > Clone it, configure it, and have working authentication in minutes.
 
@@ -195,4 +199,5 @@ MIT — free to use in personal and commercial projects.
 ---
 
 Stop wasting time on setup. Start building what actually matters.
+
 
