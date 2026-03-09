@@ -1,7 +1,7 @@
 ﻿# MR Starter Lite
  
 + ![Stars](https://img.shields.io/github/stars/matheusregis/mr-starter-lite)
-+ ![License](https://img.shields.io/github/license/matheusregis/mr-starter-lite)
++ ![License](https://img.shields.io/badge/license-MIT-blue)
 + ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 
   
@@ -200,6 +200,7 @@ MIT — free to use in personal and commercial projects.
 ---
 
 Stop wasting time on setup. Start building what actually matters.
+
 
 
 
